@@ -1,0 +1,50 @@
+body {
+    font-family: Cambria, Georgia, serif;
+    font-size: 1.2em;
+    color: #2f5d62;
+    background-color: #dfeeea;
+}
+
+h1{
+    color: #2f5d62;
+    font-size: 2em;
+}
+
+footer{
+    margin-top: 4em;
+}
+
+div{
+    color: #5e8b7e;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    margin-left: 0.75em;
+}
+
+input{
+    background-color:#f7f9f8;
+    font-family: Cambria, Georgia, serif;
+    font-size: 1.2em;
+    color:#a7c4bc;
+    border-radius: 0.5em;
+}
+table {
+    Width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+    border: 0.1em solid #2f5d62;
+}
+
+table th {
+    border: 0.1em solid #2f5d62;
+}
+table td {
+    text-align: center;
+    border: 0.11em solid #2f5d62;
+}
+button{
+    margin-top: 2em;
+    display: block;
+    border: 0;
+    background-color:#dfeeea;
+}
